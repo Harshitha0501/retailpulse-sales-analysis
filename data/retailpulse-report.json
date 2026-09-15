@@ -1,0 +1,54 @@
+{
+  "source": "TEST_dashboard.csv",
+  "sales": [
+    1000.0,
+    2000.0
+  ],
+  "products": [
+    {
+      "name": "AeroFlex Runner",
+      "category": "Footwear",
+      "revenue": 184200,
+      "units": 1820,
+      "margin": 38,
+      "stock": 84,
+      "status": "Healthy"
+    },
+    {
+      "name": "Daily Carry Tote",
+      "category": "Accessories",
+      "revenue": 142800,
+      "units": 2640,
+      "margin": 44,
+      "stock": 18,
+      "status": "Low stock"
+    },
+    {
+      "name": "CloudKnit Hoodie",
+      "category": "Apparel",
+      "revenue": 126400,
+      "units": 1120,
+      "margin": 32,
+      "stock": 61,
+      "status": "Healthy"
+    },
+    {
+      "name": "Trailhead Bottle",
+      "category": "Outdoors",
+      "revenue": 98400,
+      "units": 1980,
+      "margin": 51,
+      "stock": 9,
+      "status": "Critical"
+    },
+    {
+      "name": "Studio Crew Socks",
+      "category": "Apparel",
+      "revenue": 76300,
+      "units": 3180,
+      "margin": 57,
+      "stock": 92,
+      "status": "Healthy"
+    }
+  ]
+}
