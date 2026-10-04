@@ -150,4 +150,4 @@ RetailPulse focuses on transforming structured retail data into useful business 
 
 **Harshitha C.**
 
-GitHub: `https://github.com/Harshitha0501`
+GitHub: [Harshitha0501](https://github.com/Harshitha0501)
